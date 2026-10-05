@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+mediapipe
+numpy
+pandas
+streamlit
+pillow
+pygame
+sqlite3
